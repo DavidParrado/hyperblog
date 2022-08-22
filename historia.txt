@@ -1,1 +1,3 @@
 Vamos hacer una cosa totalmente nueva y desconocida
+
+Vamos a tratar de usar el checkout creo que la practica si ayuda bastante a entender mejor los conceptos.
