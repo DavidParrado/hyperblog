@@ -1,7 +1,7 @@
 # Hyperblog
 Un blog increible para el curso de Git y Github de Platzi
 
-## Porque contribuir :tw-1f44a:
+## Porque contribuir :smile:
 > Este es uno de los mejores proyectos de todo el universo 7, forma parte de él.
 
 - Tenemos hambre de victoria
